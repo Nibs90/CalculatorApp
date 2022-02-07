@@ -1,4 +1,4 @@
 # CalculatorApp
 
-Yksinkertainen graaffinen laskin.
+Yksinkertainen graaffinen laskin.  
 Toteutettu C#
